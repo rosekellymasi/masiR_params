@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="masiR_params.vcxproj" Id="fa6fb569-44bf-4c3b-b30b-94ce86415f0a" />
+</Solution>
